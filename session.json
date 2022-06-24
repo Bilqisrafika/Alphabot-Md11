@@ -1,0 +1,171 @@
+1   /36858b) 0010 0x00A                                                                        [*][X]
+
+{
+
+  "creds": {
+
+    "noiseKey": {
+
+      "private": {
+
+        "type": "Buffer",
+
+        "data": "SHPmQOdmUNLFobLIzCHwvHTaLKHvHl8OHwa5hCphBWQ="
+
+      },
+
+      "public": {
+
+        "type": "Buffer",
+
+        "data": "Ntaaea/dunz3AqYUOmJLQNVt/+QwctlKEFIObrndJHE="
+
+      }
+
+    },
+
+    "signedIdentityKey": {
+
+      "private": {
+
+        "type": "Buffer",
+
+        "data": "AOcFqHa+3d/N3sijtV4aEM1ujBF/n0Zfe/WqANl9s18="
+
+      },
+
+      "public": {
+
+        "type": "Buffer",
+
+        "data": "u/d50rZln+fDvR7A16RTavho3rOQ6tTNb9s775OiSGM="
+
+      }
+
+    },
+
+    "signedPreKey": {
+
+      "keyPair": {
+
+        "private": {
+
+          "type": "Buffer",
+
+          "data": "OJF8jNgQ8iofge9fUgkFiCeHc6OsugsD/kpUMzm40Go="
+
+        },
+
+        "public": {
+
+          "type": "Buffer",
+
+          "data": "nrumJjWZVD0C6hrAkLJCQAvwnYVQ3C3dAyOXCp9W8xQ="
+
+        }
+
+      },
+
+      "signature": {
+
+        "type": "Buffer",
+
+        "data": "iRDpVw9Wl3r9yrz0AH5H1/eqNz97j4Rs5fJ8lB5bDF/IppU1n2BeuP/HOyYWJJrj+V7JyJGYGdmIQklR5ZpQiw=="
+
+      },
+
+      "keyId": 1
+
+    },
+
+    "registrationId": 144,
+
+    "advSecretKey": "0Yrs2oGL1AgT5eVPP6Myq1NTWyIldxN91lcx4dVS3jQ=",
+
+    "nextPreKeyId": 31,
+
+    "firstUnuploadedPreKeyId": 31,
+
+    "serverHasPreKeys": true,
+
+    "account": {
+
+      "details": "CP+MzdIHEOf81ZUGGAE=",
+
+      "accountSignatureKey": "RAx3iTjWgTaOZS7CNVhYFJIF+h2dJez/ZAHrph8TOiQ=",
+
+      "accountSignature": "Q9GGzFAfzkVMnEWA8naGVRHm2CfvIbcdfNs4JWpVo1UI7gqFh0B3ZLvO58lTMpcWMg2Be/UMOqKBHn4MKTuZBA==",
+
+      "deviceSignature": "iFDDhnhSt6MM+p9e4l0sCzSaMZ6dB7rwIPnYjv8e/t8nRp6ut1TRalG2ET7gQrx3l1sH/dnyHdw10p05YHmsjQ=="
+
+    },
+
+    "me": {
+
+      "id": "62895386009665:43@s.whatsapp.net",
+
+      "verifiedName": "",
+
+      "name": "Exs - Botz"
+
+    },
+
+    "signalIdentities": [
+
+      {
+
+        "identifier": {
+
+          "name": "62895386009665:43@s.whatsapp.net",
+
+          "deviceId": 0
+
+        },
+
+        "identifierKey": {
+
+          "type": "Buffer",
+
+          "data": "BUQMd4k41oE2jmUuwjVYWBSSBfodnSXs/2QB66YfEzok"
+
+        }
+
+      }
+
+    ],
+
+    "lastAccountSyncTimestamp": 1656061551,
+
+    "myAppStateKeyId": "AAAAANw1"
+
+  },
+
+  "keys": {
+
+    "preKeys": {
+
+      "1": {
+
+        "private": {
+
+          "type": "Buffer",
+
+          "data": "IPIZY10SB1673VnzA+koz4TBC9/B1VuCGF3r8K0PLVo="
+
+        },
+
+        "public": {
+
+          "type": "Buffer",
+
+          "data": "0ZteXYoFN0l6pgmcZAbcPjVBtJ4uhxTTRcJiq++wcDg="
+
+        }
+
+      },
+
+      "2": {
+
+        "private": {
+
+          "type": "Buffer",
